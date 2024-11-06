@@ -1,4 +1,5 @@
-0
+using System;
+using System.Random;
 
 void Shuffle(int[] arr)
 {
